@@ -29,4 +29,4 @@ Live Site - https://stark-garden-27919.herokuapp.com/
 
 ## Contributions
 
-Tech Park created by Khaoula Jabour
+created by Khaoula Jabour
