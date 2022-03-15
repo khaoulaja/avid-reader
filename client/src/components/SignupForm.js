@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import { Form, Button, Alert } from 'react-bootstrap';
 
 import Auth from '../utils/auth';
-// import { createUser } from '../utils/API';
 
 const SignupForm = () => {
   const [addUser, {error}] = useMutation(ADD_USER);
